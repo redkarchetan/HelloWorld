@@ -1,14 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class HelloWorld : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
+public class HelloWorld : MonoBehaviour 
+{
+	void Start () 
+	{
 	
 	}
-	
-	// Update is called once per frame
+
 	void Update () {
 	
 	}
